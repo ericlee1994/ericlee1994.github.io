@@ -30,13 +30,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite-url/en/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2020-04-16</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite-url/cn/GlideApp%E7%94%9F%E6%88%90%E9%97%AE%E9%A2%98/</loc>
     
     <lastmod>2019-07-14</lastmod>
@@ -177,13 +170,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>http://yoursite-url/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2021-09-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://yoursite-url/tags/Activity/</loc>
@@ -354,13 +340,6 @@
   </url>
   
 
-  
-  <url>
-    <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2021-09-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://yoursite-url/categories/Android/</loc>
